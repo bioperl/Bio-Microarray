@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/Bio/Tools/MitoChipV2Parser.pm
+lib/Bio/Tools/ReseqChip.pm
+LICENSE
+MANIFEST			This list of files
+README
+t/data/ReseqChip_ExampleData.fasta
+t/data/ReseqChip_mtDNA_design_annotation_file_FINAL.xls
+t/data/ReseqChip_ParamsNcall.csv
+t/data/ReseqChip_RefSeq.fasta
+t/ReseqChip.t
