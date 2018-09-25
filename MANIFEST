@@ -1,7 +1,7 @@
 Build.PL
 Changes
-lib/Bio/Tools/MitoChipV2Parser.pm
-lib/Bio/Tools/ReseqChip.pm
+lib/Bio/Microarray/Tools/MitoChipV2Parser.pm
+lib/Bio/Microarray/Tools/ReseqChip.pm
 LICENSE
 MANIFEST			This list of files
 README
